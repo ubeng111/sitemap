@@ -1,0 +1,3 @@
+# Aturan untuk semua file sitemap .xml.gz Anda
+/*.xml.gz
+  X-Robots-Tag: index, follow
